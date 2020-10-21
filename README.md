@@ -10,4 +10,5 @@
  ## Python IDLE
  ## Cascade Trainer GUI
  # Projede kullanılan API'ler:
- ## Fatkun Batch Download Image
+## Fatkun Batch Download Image
+## Projede cv2 Kütüphanesi kullanılmıştır.
