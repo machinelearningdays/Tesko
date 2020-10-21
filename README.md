@@ -12,3 +12,4 @@
  # Projede kullanılan API'ler:
 ## Fatkun Batch Download Image
 ## Projede cv2 Kütüphanesi kullanılmıştır.
+# Bu projede Hackathon öncesinde herhangi bir proje oluşturulmamıştır. Verilerin bulunması, işlenmesi, makine öğretiminin gerçekleştirilmesi ve python kodunun yazımı Hackhaton süresince Muhammet Enes ERİŞ ve Sinan AYDOĞAN tarafından gerçekleştirilmiştir.
